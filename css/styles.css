@@ -1,0 +1,35 @@
+.flashy {
+  color: #C23223;
+  font-style: italic;
+  font-family: 'Nosifer', cursive;
+
+}
+
+.bestest {
+  border-radius: 75%;
+  border: solid;
+  border-color: #C23223;
+  border-width: thick;
+}
+
+.secondbest {
+  border-radius: 75%;
+  border: solid;
+  border-color: #070707;
+  border-width: medium;
+
+}
+
+body {
+  background-color: #ECDBD8;
+  text-align: center;
+  border: solid;
+  border-radius: 8%;
+  border-color: #C23223;
+  border-width: thick;
+  font-family: sans-serif;
+}
+
+a {
+  color: #C23223;
+}
